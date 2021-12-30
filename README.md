@@ -17,8 +17,17 @@ Download this repo, place all the .dds image files into your csgo installation i
 ![preview](https://i.imgur.com/4inYBlT.png)
 
 
-Server owners:
+Server owners: ⚠ **If you are using my images on your server, please do not edit the images to advertise in any way. Please leave the images as stock.**
 
 Throw this in your fastdl, in bzip2 format in the same directory it will be sent to for clients above. You can use the included **bzip.bat** filed included if you have 7zip installed. You **need** a plugin to add the radar images to the client download table, or bake that feature into your timer, whatnot.
 **downloads_simple.ini** contains all file names and paths for the files, copy and paste it into your **downloads_simple.ini** so that players download all of them when they join your server.
-Thank you [1zc](https://github.com/1zc) for the bzip.bat
+
+
+
+
+-------------
+Thank you to:
+
+[1zc](https://github.com/1zc) for the bzip.bat
+
+[tslashd](https://github.com/tslashd) for the .ini
