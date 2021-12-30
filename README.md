@@ -12,7 +12,7 @@ The images were scaled to 1024px height, then bulk cropped relatively towards th
 
 Normal people/clients that just want to have ALL the load screens installed:
 
-Download this repo, place all the .dds image files into your csgo installation in **../csgo/resource/overlays/** and you're good to go! 
+Download this repo, place all the .dds image files into your csgo installation in **..csgo/resource/overviews/** and you're good to go! 
 
 ![preview](https://i.imgur.com/4inYBlT.png)
 
