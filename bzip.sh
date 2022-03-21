@@ -1,0 +1,1 @@
+for i in *.dds ; do bzip2 -zvk "$i" ; done
