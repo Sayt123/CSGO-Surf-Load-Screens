@@ -30,6 +30,6 @@ Thank you to:
 
 [1zc](https://github.com/1zc) for the bzip.bat
 
-[Botsy] for the linux bzip.sh script
+Botsy for the linux bzip.sh script
 
 [tslashd](https://github.com/tslashd) for the .ini
