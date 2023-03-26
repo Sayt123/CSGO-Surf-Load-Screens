@@ -10,7 +10,7 @@ The images were scaled to 1024px height, then bulk cropped relatively towards th
 
 ## How to use:
 
-Normal people/clients that just want to have ALL the load screens installed:
+Normal people/clients:
 
 Download this repo, place all the .dds image files into your csgo installation in **..csgo/resource/overviews/** and you're good to go! 
 
@@ -22,7 +22,12 @@ Server owners: ⚠ **If you are using my images on your server, please do not ed
 Throw this in your fastdl, in bzip2 format in the same directory it will be sent to for clients above. You can use the included **bzip.bat** or **bzip.sh** file included if you have 7zip installed. You **need** a plugin to add the radar images to the client download table, or bake that feature into your timer, whatnot.
 **downloads_simple.ini** contains all file names and paths for the files, copy and paste it into your **downloads_simple.ini** so that players download all of them when they join your server.
 
+You must use **sv_disable_radar 1** in your server config to prevent the images showing up while players are in spectate.
 
+
+## How to contribute:
+
+I am mostly looking for help shoring up maps I've missed, as well as ensuring all map suffix variations are accounted for. Images must be 1024x1024 in DXT1 .dds format.
 
 
 -------------
